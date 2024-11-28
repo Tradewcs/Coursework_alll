@@ -1,0 +1,1102 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,10): error C2995: 'List<T>::List(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(22,5):
+  see declaration of 'List<T>::List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,10): error C2995: 'List<T>::List(int)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(23,5):
+  see declaration of 'List<T>::List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(19,10): error C2995: 'List<T>::List(const List<T> &)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(24,5):
+  see declaration of 'List<T>::List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,11): error C2995: 'List<T>::~List(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(25,6):
+  see declaration of 'List<T>::~List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(38,19): error C2995: 'List<T> &List<T>::operator =(const List<T> &)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(27,11):
+  see declaration of 'List<T>::operator ='
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,15): error C2995: 'bool List<T>::isEmpty(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(29,10):
+  see declaration of 'List<T>::isEmpty'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,18): error C2995: 'int List<T>::getSize(void) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(30,9):
+  see declaration of 'List<T>::getSize'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,15): error C2995: 'void List<T>::insertFront(T)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(32,10):
+  see declaration of 'List<T>::insertFront'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,15): error C2995: 'void List<T>::insertBack(T)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(33,10):
+  see declaration of 'List<T>::insertBack'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,15): error C2995: 'void List<T>::insertOnIndex(T,int)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(34,10):
+  see declaration of 'List<T>::insertOnIndex'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,12): error C2995: 'T List<T>::popFront(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(36,7):
+  see declaration of 'List<T>::popFront'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,12): error C2995: 'T List<T>::popBack(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(37,7):
+  see declaration of 'List<T>::popBack'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,12): error C2995: 'T List<T>::popOnIndex(int)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(38,7):
+  see declaration of 'List<T>::popOnIndex'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(237,15): error C2995: 'void List<T>::clear(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(40,10):
+  see declaration of 'List<T>::clear'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(253,15): error C2995: 'void List<T>::reverse(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(41,10):
+  see declaration of 'List<T>::reverse'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(273,20): error C2995: 'List<T>::Iterator::Iterator(Node<T> *)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(48,9):
+  see declaration of 'List<T>::Iterator::Iterator'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(276,23): error C2995: 'T &List<T>::Iterator::operator *(void) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(50,12):
+  see declaration of 'List<T>::Iterator::operator *'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(282,48): error C2995: 'List<T>::Iterator &List<T>::Iterator::operator ++(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(52,19):
+  see declaration of 'List<T>::Iterator::operator ++'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(293,47): error C2995: 'List<T>::Iterator List<T>::Iterator::operator ++(int)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(53,18):
+  see declaration of 'List<T>::Iterator::operator ++'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(301,48): error C2995: 'List<T>::Iterator &List<T>::Iterator::operator --(void)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(55,19):
+  see declaration of 'List<T>::Iterator::operator --'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(312,47): error C2995: 'List<T>::Iterator List<T>::Iterator::operator --(int)': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(56,18):
+  see declaration of 'List<T>::Iterator::operator --'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(320,25): error C2995: 'bool List<T>::Iterator::operator ==(const List<T>::Iterator &) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(58,14):
+  see declaration of 'List<T>::Iterator::operator =='
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(326,25): error C2995: 'bool List<T>::Iterator::operator !=(const List<T>::Iterator &) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(59,14):
+  see declaration of 'List<T>::Iterator::operator !='
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(332,37): error C2995: 'List<T>::Iterator List<T>::begin(void) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(62,14):
+  see declaration of 'List<T>::begin'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(338,37): error C2995: 'List<T>::Iterator List<T>::end(void) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(63,14):
+  see declaration of 'List<T>::end'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(344,37): error C2995: 'List<T>::Iterator List<T>::rbegin(void) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(64,14):
+  see declaration of 'List<T>::rbegin'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(350,37): error C2995: 'List<T>::Iterator List<T>::rend(void) const': function template has already been defined
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(65,14):
+  see declaration of 'List<T>::rend'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(13,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(19,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(44,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(68,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(69,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(82,92): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(85,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(86,18): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(103,30): error C3536: '<begin>$L0': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(103,30): error C3536: '<end>$L0': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(103,36): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(117,22): error C2264: 'List<int>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(122,12): error C3536: 'it_byte': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(124,10): error C3536: 'it_int': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(124,9): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(124,36): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(131,5): error C2264: 'List<int>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(135,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(140,12): error C3536: 'it_int': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(142,10): error C3536: 'it_byte': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(142,9): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(142,42): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(149,5): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(158,16): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(181,30): error C3536: '<begin>$L0': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(181,30): error C3536: '<end>$L0': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(181,37): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,34): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(239,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(240,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(242,20): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(252,12): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(254,20): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(254,30): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(254,29): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(270,18): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(299,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(300,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(321,24): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(323,16): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(329,20): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(336,16): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(338,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(338,25): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(338,24): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(340,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(345,56): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(347,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(351,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(354,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(354,28): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(366,16): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(368,18): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(368,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(368,24): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(370,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(375,56): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(377,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(381,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(384,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(384,28): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(395,18): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(424,20): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(426,12): error C3536: 'it': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(428,20): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(446,24): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(462,26): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(466,45): error C2512: 'List<uint16_t>::Iterator': no appropriate default constructor available
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(43,11):
+  see declaration of 'List<uint16_t>::Iterator'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(469,12): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(475,16): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(477,24): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(477,33): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(477,50): error C2264: 'List<uint16_t>::Iterator::operator *': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(477,50): error C2100: you cannot dereference an operand of type 'List<uint16_t>::Iterator'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(477,47): error C2088: built-in operator '+' cannot be applied to an operand of type 'List<uint16_t>::Iterator'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(480,13): error C2264: 'List<uint16_t>::Iterator::operator *': error in function definition or declaration; function not called
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(480,13): error C2100: you cannot dereference an operand of type 'List<uint16_t>::Iterator'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(480,13): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  List.cpp
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,5): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,5): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,10): error C2039: 'List': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,55): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,57): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,57): error C2059: syntax error: '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,57): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,57): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,5): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,5): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,10): error C2039: 'List': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,25): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,25): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(19,5): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(19,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(19,5): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(19,10): error C2039: 'List': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(20,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(20,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,5): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,5): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,11): error C2523: '::~List': destructor tag mismatch
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,11): error C2039: '{dtor}': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(33,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(33,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(38,5): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(38,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(38,5): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(38,19): error C2039: '=': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(39,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(39,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,10): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,10): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,10): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,15): error C2039: 'isEmpty': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(58,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(58,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,13): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,13): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,9): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,13): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,18): error C2039: 'getSize': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(64,5): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(64,5): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,10): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,10): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,6): error C2182: 'List': this use of 'void' is not valid
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,6): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,10): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,15): error C2039: 'insertFront': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(70,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(70,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,10): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,10): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,6): error C2182: 'List': this use of 'void' is not valid
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,6): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,10): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,15): error C2039: 'insertBack': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(89,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(89,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,10): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,10): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,6): error C2182: 'List': this use of 'void' is not valid
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,6): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,10): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,15): error C2039: 'insertOnIndex': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(108,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(108,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,7): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,7): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,3): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,7): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,12): error C2039: 'popFront': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(144,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(144,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,7): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,7): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,3): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,7): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,12): error C2039: 'popBack': is not a member of '`global namespace''
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(173,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(173,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,7): error C2988: unrecognizable template declaration/definition
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,7): error C2143: syntax error: missing ';' before '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,3): error C2371: 'List': redefinition; different basic types
+  (compiling source file '/List.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,6):
+  see declaration of 'List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,7): error C2059: syntax error: '<'
+  (compiling source file '/List.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,7): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file '/List.cpp')
+  
+  LongInteger.cpp
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(5,10): error C2995: 'List<T>::List(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(22,5):
+  see declaration of 'List<T>::List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(8,10): error C2995: 'List<T>::List(int)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(23,5):
+  see declaration of 'List<T>::List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(19,10): error C2995: 'List<T>::List(const List<T> &)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(24,5):
+  see declaration of 'List<T>::List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(32,11): error C2995: 'List<T>::~List(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(25,6):
+  see declaration of 'List<T>::~List'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(38,19): error C2995: 'List<T> &List<T>::operator =(const List<T> &)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(27,11):
+  see declaration of 'List<T>::operator ='
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(57,15): error C2995: 'bool List<T>::isEmpty(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(29,10):
+  see declaration of 'List<T>::isEmpty'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(63,18): error C2995: 'int List<T>::getSize(void) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(30,9):
+  see declaration of 'List<T>::getSize'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(69,15): error C2995: 'void List<T>::insertFront(T)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(32,10):
+  see declaration of 'List<T>::insertFront'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(88,15): error C2995: 'void List<T>::insertBack(T)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(33,10):
+  see declaration of 'List<T>::insertBack'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(107,15): error C2995: 'void List<T>::insertOnIndex(T,int)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(34,10):
+  see declaration of 'List<T>::insertOnIndex'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(143,12): error C2995: 'T List<T>::popFront(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(36,7):
+  see declaration of 'List<T>::popFront'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(172,12): error C2995: 'T List<T>::popBack(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(37,7):
+  see declaration of 'List<T>::popBack'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(202,12): error C2995: 'T List<T>::popOnIndex(int)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(38,7):
+  see declaration of 'List<T>::popOnIndex'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(237,15): error C2995: 'void List<T>::clear(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(40,10):
+  see declaration of 'List<T>::clear'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(253,15): error C2995: 'void List<T>::reverse(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(41,10):
+  see declaration of 'List<T>::reverse'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(273,20): error C2995: 'List<T>::Iterator::Iterator(Node<T> *)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(48,9):
+  see declaration of 'List<T>::Iterator::Iterator'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(276,23): error C2995: 'T &List<T>::Iterator::operator *(void) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(50,12):
+  see declaration of 'List<T>::Iterator::operator *'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(282,48): error C2995: 'List<T>::Iterator &List<T>::Iterator::operator ++(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(52,19):
+  see declaration of 'List<T>::Iterator::operator ++'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(293,47): error C2995: 'List<T>::Iterator List<T>::Iterator::operator ++(int)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(53,18):
+  see declaration of 'List<T>::Iterator::operator ++'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(301,48): error C2995: 'List<T>::Iterator &List<T>::Iterator::operator --(void)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(55,19):
+  see declaration of 'List<T>::Iterator::operator --'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(312,47): error C2995: 'List<T>::Iterator List<T>::Iterator::operator --(int)': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(56,18):
+  see declaration of 'List<T>::Iterator::operator --'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(320,25): error C2995: 'bool List<T>::Iterator::operator ==(const List<T>::Iterator &) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(58,14):
+  see declaration of 'List<T>::Iterator::operator =='
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(326,25): error C2995: 'bool List<T>::Iterator::operator !=(const List<T>::Iterator &) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(59,14):
+  see declaration of 'List<T>::Iterator::operator !='
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(332,37): error C2995: 'List<T>::Iterator List<T>::begin(void) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(62,14):
+  see declaration of 'List<T>::begin'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(338,37): error C2995: 'List<T>::Iterator List<T>::end(void) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(63,14):
+  see declaration of 'List<T>::end'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(344,37): error C2995: 'List<T>::Iterator List<T>::rbegin(void) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(64,14):
+  see declaration of 'List<T>::rbegin'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\List.cpp(350,37): error C2995: 'List<T>::Iterator List<T>::rend(void) const': function template has already been defined
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(65,14):
+  see declaration of 'List<T>::rend'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(13,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(19,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(44,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(68,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(69,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(82,92): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(85,1): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(86,18): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(97,24): error C2079: 'oss' uses undefined class 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(100,13): warning C4293: '<<': shift count negative or too big, undefined behavior
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(100,13): warning C4552: '<<': result of expression not used
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(103,30): error C3536: '<begin>$L0': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(103,30): error C3536: '<end>$L0': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(103,36): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(104,13): warning C4552: '<<': result of expression not used
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(107,16): error C2039: 'str': is not a member of 'System::Int32'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(117,22): error C2264: 'List<int>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(122,12): error C3536: 'it_byte': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(124,10): error C3536: 'it_int': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(124,9): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(124,36): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(131,5): error C2264: 'List<int>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(135,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(140,12): error C3536: 'it_int': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(142,10): error C3536: 'it_byte': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(142,9): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(142,42): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(149,5): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(158,16): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(181,30): error C3536: '<begin>$L0': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(181,30): error C3536: '<end>$L0': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(181,37): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,24): error C2039: 'setw': is not a member of 'std'
+  (compiling source file '/LongInteger.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iostream(18,1):
+  see declaration of 'std'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,24): error C3861: 'setw': identifier not found
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,13): error C2593: 'operator <<' is ambiguous
+  (compiling source file '/LongInteger.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(174,15):
+  or       'std::ostream &operator <<(std::ostream &,const LongInteger &)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,13):
+  while trying to match the argument list '(std::ostream, unknown-type)'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,54): error C2039: 'setfill': is not a member of 'std'
+  (compiling source file '/LongInteger.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iostream(18,1):
+  see declaration of 'std'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(183,54): error C3861: 'setfill': identifier not found
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(239,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(240,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(242,20): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(252,12): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(254,20): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(254,30): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(254,29): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(270,18): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(299,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(300,28): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(321,24): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(323,16): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(329,20): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(336,16): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(338,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(338,25): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(338,24): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(340,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(345,56): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(347,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(351,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(354,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(354,28): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(366,16): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(368,18): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(368,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(368,24): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(370,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(375,56): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(377,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(381,17): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(384,21): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(384,28): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(395,18): error C2264: 'List<uint16_t>::operator =': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(424,20): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(426,12): error C3536: 'it': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(428,20): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(446,24): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(462,26): error C2264: 'List<uint16_t>::List': error in function definition or declaration; function not called
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(466,45): error C2512: 'List<uint16_t>::Iterator': no appropriate default constructor available
+  (compiling source file '/LongInteger.cpp')
+  C:\Users\trade\source\repos\Coursework\Coursework\List.h(43,11):
+  see declaration of 'List<uint16_t>::Iterator'
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(469,12): error C3536: 'it2': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(475,16): error C3536: 'it1': cannot be used before it is initialized
+  (compiling source file '/LongInteger.cpp')
+  
+C:\Users\trade\source\repos\Coursework\Coursework\LongInteger.cpp(475,16): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file '/LongInteger.cpp')
+  
+  Generating Code...

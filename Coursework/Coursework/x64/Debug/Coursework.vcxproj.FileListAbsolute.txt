@@ -1,0 +1,3 @@
+C:\Users\trade\source\repos\Coursework\Coursework\x64\Debug\Coursework.vcxproj.AssemblyReference.cache
+C:\Users\trade\source\repos\Coursework\Coursework\x64\Debug\Coursework.Form1.resources
+C:\Users\trade\source\repos\Coursework\Coursework\x64\Debug\Coursework.vcxproj.GenerateResource.cache
